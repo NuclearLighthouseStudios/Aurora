@@ -12,8 +12,8 @@
   (page A4)
   (title_block
     (title Aurora)
-    (date 2020-07-11)
-    (rev r02)
+    (date 2020-10-04)
+    (rev r03)
     (company "Nuclear Lighthouse Studios")
     (comment 1 "CC BY-NC-SA")
   )
@@ -1275,7 +1275,7 @@
     )
   )
 
-  (gr_text "NFX005\nAurora r02\nJul 2020\nSteamed Hams!" (at 99.695 84.455) (layer F.SilkS)
+  (gr_text "NFX005\nAurora r03\nOct 2020\nSteamed Hams!" (at 99.695 84.455) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_line (start 141.605 106.045) (end 89.535 106.045) (layer Edge.Cuts) (width 0.15))

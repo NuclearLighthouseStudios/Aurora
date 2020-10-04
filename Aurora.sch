@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Aurora"
-Date "2020-08-27"
-Rev "r02"
+Date "2020-10-04"
+Rev "r03"
 Comp "Nuclear Lighthouse Studios"
 Comment1 "CC BY-NC-SA"
 Comment2 ""
