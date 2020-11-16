@@ -11,7 +11,7 @@ This board is designed to be used with my Switchboard Pedal IO PCB which you can
 ## BOM
 
 | Reference | Quantity | Value  | Description                                                    |
-| :-------- | -------: | :----- | :------------------------------------------------------------- |
+| :-------- | -------: | -----: | :------------------------------------------------------------- |
 | C1 C2     | 2        | 100n   | Generic ceramic capacitor                                      |
 | C3 C4     | 2        | 100n   | WIMA MKS2 63V                                                  |
 | C5        | 1        | 10n    | WIMA MKS2 63V                                                  |
