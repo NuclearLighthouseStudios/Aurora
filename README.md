@@ -1,7 +1,6 @@
 # Aurora Temporal Aliaser
 
-These are the KiCAD schematics and board layout filed for my Aurora Temporal Aliaser.
-
+These are the KiCAD schematics and board layout filed for my Aurora Temporal Aliaser.  
 If you just want the Gerber files or a PDF of the schematic check out the releases tab for downloads.
 
 This PCB should be easily manufacturable with most online PCB houses by just uploading the gerber files.
@@ -15,7 +14,7 @@ This board is designed to be used with my Switchboard Pedal IO PCB which you can
 | C1 C2     | 2        | 100n   | Generic ceramic capacitor                                      |
 | C3 C4     | 2        | 100n   | WIMA MKS2 63V                                                  |
 | C5        | 1        | 10n    | WIMA MKS2 63V                                                  |
-| C6        | 1        | 1µ     | WIMA MKS2 63V                                                  |
+| C6        | 1        | 1µ     | WIMA MKS2 50V                                                  |
 | C7        | 1        | 47n    | WIMA MKS2 63V                                                  |
 | J1        | 1        |        | Pin Header, 6 pins, 2.54mm spacing                             |
 | J2        | 1        |        | DC Barrel Jack with internal switch                            |
