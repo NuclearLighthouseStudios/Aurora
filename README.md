@@ -29,3 +29,4 @@ This board is designed to be used with my Switchboard Pedal IO PCB which you can
 | RV1       | 1        | 100k   | Alps RK09K1130C94 Potentiometer                                 |
 | U1        | 1        | TL072  | Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8  |
 | U2        | 1        | NE555P | Precision Timers, 555 compatible, PDIP-8                        |
+|           | 2        |        | 8 pin DIP socket for U1 and U2                                  |
