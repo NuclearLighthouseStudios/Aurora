@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name logos)(type KiCad)(uri ${KIPRJMOD}/../../Libs/logos.pretty)(options "")(descr ""))
+  (lib (name "logos")(type "KiCad")(uri "${KIPRJMOD}/../../Libs/logos.pretty")(options "")(descr ""))
+  (lib (name "NLS")(type "KiCad")(uri "/home/sly/Creative/Electro/Libs/NLS.pretty")(options "")(descr ""))
 )

@@ -1,9 +1,7 @@
-gerber/
+gerbers/
 samples/
-*-bak
-*.bak
+*.html
 *-cache
 *.zip
 *.pdf
-*.svg
 *.step
